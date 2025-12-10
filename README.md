@@ -45,6 +45,3 @@ bash generation.sh
 bash compute_reward.sh
 ```
 For Pareto frontier visualization and metric comparisons, see the pareto.ipynb file.
-
-## Acknowledgement
-This codebase is heavily based on [PARM](https://github.com/Baijiong-Lin/PARM).
